@@ -4,7 +4,7 @@ render() {
 return (
 <React.Fragment>
 <div style={{ textAlign: "center",marginTop:'10rem' }}>
-<h1>Here is the post</h1>
+<h1>Here is the post that got changed!</h1>
 </div>
 </React.Fragment>
 );}}
